@@ -11,4 +11,4 @@ spring:
 spring: 
   profiles: test  #测试环境
   application: 
-    name:  microservicecloud-config-topcheer-dev  
+    name:  microservicecloud-config-topcheer-test  
